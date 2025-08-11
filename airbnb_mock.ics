@@ -8,15 +8,15 @@ DTSTART:20250810T150000Z
 DTEND:20250814T110000Z
 SUMMARY:Prenotazione stanza Airbnb
 DESCRIPTION:Ospiti: 4 adulti\nEmail: guest@example.com
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:uid-airbnb-2@example.com
 DTSTAMP:20250809T120000Z
 DTSTART:20250822T150000Z
 DTEND:20250824T110000Z
-SUMMARY:Prenotazione modificata Airbnb
-DESCRIPTION:Ospiti: 3 adulti\nEmail: guest2@example.com
+SUMMARY:Prenotazione modificata da mock Airbnb
+DESCRIPTION:Ospiti: 5 adulti\nEmail: guest2@example.com
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
